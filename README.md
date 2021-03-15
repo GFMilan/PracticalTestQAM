@@ -1,1 +1,1 @@
-# PracticalTestQAM
+# Practical Test
